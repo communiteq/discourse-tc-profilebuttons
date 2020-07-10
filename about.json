@@ -1,0 +1,17 @@
+{
+  "name": "Add buttons to profile",
+  "component": true,
+  "license_url": null,
+  "about_url": "https://github.com/discoursehosting/discourse-tc-profilebuttons",
+  "authors": michael@discoursehosting.com,
+  "theme_version": "v1.0",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
